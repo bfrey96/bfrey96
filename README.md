@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @bfrey96 and software delveloper in a international company.
+- 👀 I’m interested in microcontroller and python scripting and anything tech related.
